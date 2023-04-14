@@ -1,0 +1,153 @@
+{
+    "categories": [
+        {
+            "name": "Common",
+            "image": "https://thumbs.dreamstime.com/z/common-everyday-food-product-vector-ilustration-227937648.jpg"
+        },
+        {
+            "name": "Burgers",
+            "image": "https://img.freepik.com/free-vector/cheese-burger-cartoon-illustration-flat-cartoon-style_138676-2875.jpg?w=740&t=st=1662016401~exp=1662017001~hmac=985351493d035a2e3f87e84515d314f3a1745913f1ac957b0e4bec386e61fc50"
+        },
+        {
+            "name": "Breads",
+            "image": "https://img.freepik.com/free-vector/four-pieces-toasts-with-jam_1308-71984.jpg?w=1380&t=st=1662016365~exp=1662016965~hmac=845aef7282da16edc9f35e924ec0706d6d0b51710be21560058fa6553e099cc0"
+        },
+        {
+            "name": "Sandwiches",
+            "image": "https://icons.iconarchive.com/icons/google/noto-emoji-food-drink/512/32395-green-salad-icon.png"
+        },
+        {
+            "name": "Drinks",
+            "image": "https://vi.seaicons.com/wp-content/uploads/2017/03/drink-icon.png"
+        },
+        {
+            "name": "Pizzas",
+            "image": "https://cdn.iconscout.com/icon/free/png-256/pizza-618-1114742.png"
+        }
+    ],
+    "populars": [
+        {
+            "id": "348A3300-65F6-4EBF-B137-0EDE2879966E",
+            "category": "Drinks",
+            "name": "Pepsi",
+            "description": "The soft drink with more engery",
+            "calories": 63,
+            "price": 20,
+            "image": "https://images.unsplash.com/photo-1629186235045-80d4147d90dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGVwc2l8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "BE0B7D9D-8133-47F5-AC66-1DD959DCD1BB",
+            "category": "Drinks",
+            "name": "Red Bull",
+            "description": "Red Bull includes carbonated beverages, fruit and vegetable juices, bottled water",
+            "calories": 67,
+            "price": 13,
+            "image": "https://images.unsplash.com/photo-1613218222876-954978a4404e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "0E79661F-B210-4FE7-ADFA-2BAC8900A601",
+            "category": "Sandwiches",
+            "name": "Red Omion Sandwiches",
+            "description": "Hybrid bread with burger and red onion",
+            "calories": 70,
+            "price": 16,
+            "image": "https://images.unsplash.com/photo-1481070555726-e2fe8357725c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "9B16A472-3824-491E-BF60-35BE9347A4E5",
+            "category": "Pizzas",
+            "name": "Potato Seafood Pizzas",
+            "description": "Fresh seafood pizzas with sea salt mashed potatoes",
+            "calories": 59,
+            "price": 18,
+            "image": "https://images.unsplash.com/photo-1597715469889-dd75fe4a1765?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "1CE94AA9-EDC6-4EED-A7AF-365687DDE1D4",
+            "category": "Burgers",
+            "name": "Blue Sea Salt Burger",
+            "description": "The ingredients are selected from the remote and fresh eastern sea",
+            "calories": 99,
+            "price": 16,
+            "image": "https://images.unsplash.com/photo-1596662977545-485cfa84f149?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        }
+    ],
+    "specials": [
+        {
+            "id": "C71A0166-C1F4-460B-B7DB-DF7947010C57",
+            "category": "Common",
+            "name": "Special Set 0",
+            "description": "A tropical fruit fan's paradise including apples, grapes, pears, mangosteen",
+            "calories": 2,
+            "price": 99,
+            "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "1159C92C-C77E-4330-B000-4872807711A6",
+            "category": "Breads",
+            "name": "Special Set 1",
+            "description": "Set of food includes bread, ice cream, fruit and nuts",
+            "calories": 112,
+            "price": 17,
+            "image": "https://images.unsplash.com/photo-1570690050322-26d6a2ec7f3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "FDB9A16A-6C82-434E-A86E-A10D2354D2AC",
+            "category": "Breads",
+            "name": "Special Set 2",
+            "description": "Food set includes bread, banana, pure honey",
+            "calories": 49,
+            "price": 15,
+            "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "F9A27707-CC1B-430C-B0D4-0FA7BD477747",
+            "category": "Sandwiches",
+            "name": "Special Set 3",
+            "description": "Special meal for 2 people including bread, bell pepper, lemon tea and french fries",
+            "calories": 76,
+            "price": 15,
+            "image": "https://images.unsplash.com/photo-1629236055174-3e21cae6fa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "015B4590-7D7C-48F9-B738-394D2EB62544",
+            "category": "Pizzas",
+            "name": "Special Set 4",
+            "description": "Large Pizzas for a family of 4-6 people",
+            "calories": 68,
+            "price": 13,
+            "image": "https://images.unsplash.com/photo-1600628421066-f6bda6a7b976?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        },
+        {
+            "id": "E9ABDAB0-0AEE-4559-9BB3-44F9D095177E",
+            "category": "Pizzas",
+            "name": "Special Set 5",
+            "description": "Enjoy comfort and satiation with friends and relatives",
+            "calories": 64,
+            "price": 17,
+            "image": "https://images.unsplash.com/photo-1594179047519-f347310d3322?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "createdAt": "0001-01-01T00:00:00",
+            "modifiedAt": null
+        }
+    ]
+}
